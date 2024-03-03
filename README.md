@@ -1,4 +1,4 @@
-# blog_club
+# Blog Club
 
 A new Flutter project.
 
