@@ -1,3 +1,3 @@
-## Blog Club
+# Blog Club
 
 like Instagram UI 
